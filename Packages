@@ -3,7 +3,7 @@ Version: 10.23
 Architecture: iphoneos-arm64
 Maintainer: @StarCrack
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./deb/com.crack2n.whatsapprevael_10.23.deb
+Filename: /debs/com.crack2n.whatsapprevael_10.23.deb
 Size: 77297
 MD5sum: 8f507c56fc67158dc79162ba09726357
 SHA256: e082e246996717fbfab5980d27d1e7f671aa2ccfe9a1fa953defbb00c23daf0c
