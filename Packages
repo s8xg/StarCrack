@@ -1,8 +1,8 @@
-Package: com.crack2n.whatsapprevael_10.23.deb
+Package: org.thebigboss.whatsapprevael
 Version: 10.23
 Architecture: iphoneos-arm64
 Maintainer: @StarCrack
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./deb/com.crack2n.whatsapprevael_10.23.deb
 Size: 77297
 MD5sum: 8f507c56fc67158dc79162ba09726357
