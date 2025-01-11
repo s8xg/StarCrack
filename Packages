@@ -5,6 +5,7 @@ Maintainer: @StarCrack
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: debs/com.crack2n.whatsapprevael_10.23.deb
 Size: 77297
+SHA1: 5854332df9b873482b6a2178bce3fa868a5c99c7
 MD5sum: 8f507c56fc67158dc79162ba09726357
 SHA256: e082e246996717fbfab5980d27d1e7f671aa2ccfe9a1fa953defbb00c23daf0c
 Section: Tweaks
