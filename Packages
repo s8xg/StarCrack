@@ -1,14 +1,13 @@
-Package: com.crack2n.whatsapprevael
-Version: 1.0k
+Package: whatsapprevael_10.23.deb
+Version: 10.23
 Architecture: iphoneos-arm64
 Maintainer: @StarCrack
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./deb/com.crack2n.whatsapprevael_10.23_iphoneos-arm64.deb
-Size: 933728
-MD5sum: 73092f7389bc3b018ad4644ce498578f
-SHA1: a96533711dfa60ba71c7166b8aaf78d6a1ebfbb7
-SHA256: 7173e3f884bbb870a6a9712a7b52512fcbb778ec45396a2d9a567d4f2594cf8d
+Filename: ./deb/whatsapprevael_10.23.deb
+Size: 772.97
+MD5sum: 8f507c56fc67158dc79162ba09726357
+SHA256: e082e246996717fbfab5980d27d1e7f671aa2ccfe9a1fa953defbb00c23daf0c
 Section: Tweaks
 Description: whatsapp++
-Author: Jonathan
-Name: Whrevael
+Author: Negan-Dev . X-Dev
+Name: Whatsapp Revael
