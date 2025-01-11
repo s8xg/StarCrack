@@ -1,29 +1,14 @@
-Package: whatsapprevae
-Version: l.10.23
+Package: com.rivesdev.snapper3.rootless
+Version: 1.0k
 Architecture: iphoneos-arm64
-Maintainer: Negan-dec	
-Depends:  firmware (>= 11.0), mobilesubstrate 	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/whatsapprevael_10.23_iphoneos-arm64
-Size: 1670732	
-Section: Tweaks	Section: Tweaks
-Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: appstore++
-
-Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.8-9
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
-Size: 1346934
-MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
-SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
-SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
+Maintainer: Rives - X:_juz4
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./deb/com.rivesdev.snapper3.rootless_1.0k_iphoneos-arm64.deb
+Size: 933728
+MD5sum: 73092f7389bc3b018ad4644ce498578f
+SHA1: a96533711dfa60ba71c7166b8aaf78d6a1ebfbb7
+SHA256: 7173e3f884bbb870a6a9712a7b52512fcbb778ec45396a2d9a567d4f2594cf8d
 Section: Tweaks
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: AppStore++
+Description: اداة Snapper 3 مكركه
+Author: Jonathan
+Name: Snapper 3
