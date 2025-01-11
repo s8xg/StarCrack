@@ -1,14 +1,14 @@
-Package: com.rivesdev.snapper3.rootless
+Package: com.crack2n.whatsapprevael
 Version: 1.0k
 Architecture: iphoneos-arm64
-Maintainer: Rives - X:_juz4
+Maintainer: @StarCrack
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./deb/com.rivesdev.snapper3.rootless_1.0k_iphoneos-arm64.deb
+Filename: ./deb/com.crack2n.whatsapprevael_10.23_iphoneos-arm64.deb
 Size: 933728
 MD5sum: 73092f7389bc3b018ad4644ce498578f
 SHA1: a96533711dfa60ba71c7166b8aaf78d6a1ebfbb7
 SHA256: 7173e3f884bbb870a6a9712a7b52512fcbb778ec45396a2d9a567d4f2594cf8d
 Section: Tweaks
-Description: اداة Snapper 3 مكركه
+Description: whatsapp++
 Author: Jonathan
-Name: Snapper 3
+Name: Whrevael
