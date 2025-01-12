@@ -5,10 +5,10 @@ Maintainer: Negan-Dev
 Installed-Size: 4114
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.crack2n.whatsapprevael_10.23_iphoneos-arm64.deb
-Size: 77297 Kb
-MD5sum: 8f507c56fc67158dc79162ba09726357
-SHA1: 5854332df9b873482b6a2178bce3fa868a5c99c7
-SHA256: e082e246996717fbfab5980d27d1e7f671aa2ccfe9a1fa953defbb00c23daf0c
+Size: 772618
+MD5sum: 53504f9f659dcc196b3a871e3069a8ae
+SHA1: c85f069a92aed3564e26a12f453e588576872480
+SHA256: 69a8727cb67fa1611a7935aa9db451792eb0c716d63601b33038f9bbf6149c6f
 Section: Tweaks
 Description: Negan-Dev . X-Dev
 Author: STAR CRACK
