@@ -1,0 +1,93 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/s8xg/Logo/main/header.png",
+    "tintColor":"#69CD8B",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "قناتنا في تليغرام 🦅🔥",
+                    "action": "https://t.me/crack2n",
+                    "openExternal": true,
+                    "tintColor": "#69CD8B"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/6wC7t4w/IMG-7153.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/PMgn7Vy/IMG-7154.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/TvK5wNp/IMG-7155.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Specialised in modifying and programming IPA n\
+applications and store free for all 🦅",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "STAR CRACK"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweak"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
+            ]
+        }
