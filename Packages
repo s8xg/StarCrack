@@ -1,14 +1,18 @@
-Package: org.thebigboss.whatsapprevael
-Version: 10.23
-Architecture: iphoneos-arm64
-Maintainer: @StarCrack
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.crack2n.whatsapprevael_10.23.deb
-Size: 77297
-SHA1: 5854332df9b873482b6a2178bce3fa868a5c99c7
-MD5sum: 8f507c56fc67158dc79162ba09726357
-SHA256: e082e246996717fbfab5980d27d1e7f671aa2ccfe9a1fa953defbb00c23daf0c
+Package: com.blatant.30dayfitness
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Negan-Dev
+Installed-Size: 
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.30dayfitness_1.0_iphoneos-arm.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: Tweaks
-Description: Many features of the WhatsApp application
+Description: By StarCrack
 Author: Negan-Dev . X-Dev
+Depiction: https://raw.githubusercontent.com/s8.xg/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/3vNVKd3/IMG-7152.jpg
 Name: Whatsapp Revael
+Sileodepiction: https://github.com/s8xg/crack2n.github.io/raw/main/depictions/WhatsappRevael.json
