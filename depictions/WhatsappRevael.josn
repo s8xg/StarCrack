@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/6wC7t4w/IMG-7153.png"
+                            "url": "https://i.ibb.co/MpBJmFv/F3725-C43-09-A8-4-DF2-BE5-F-8-F42-FAC6-E85-C.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/PMgn7Vy/IMG-7154.png"
+                            "url": "https://i.ibb.co/j6XdnHv/7-CAECB01-0618-4-B2-B-8244-2-B58195-E4376.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/TvK5wNp/IMG-7155.png"
+                            "url": "https://i.ibb.co/BjQMzDc/3-FBDF99-E-AA7-D-4629-ADF5-3-ADEF526-D183.png"
                         }
                     ]
                 },
@@ -60,7 +60,7 @@ applications and store free for all 🦅",
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.0"
+                    "text": "10.23"
                 },
                 {
                     "class": "DepictionTableTextView",
