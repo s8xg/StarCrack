@@ -1,18 +1,18 @@
 Package: com.blatant.30dayfitness
-Version: 1.0
+Version: 10.23
 Architecture: iphoneos-arm
 Maintainer: Negan-Dev
-Installed-Size: 
+Installed-Size: 4114
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.30dayfitness_1.0_iphoneos-arm.deb
-Size: 
+Size: 77297 Kb
 MD5sum: 
 SHA1: 
 SHA256: 
 Section: Tweaks
-Description: By StarCrack
-Author: Negan-Dev . X-Dev
+Description: Negan-Dev . X-Dev
+Author: STAR CRACK
 Depiction: https://raw.githubusercontent.com/s8.xg/Logo/main/MadeByS.PNG
-Icon: https://ibb.co/TYBTX4D
+Icon: https://i.ibb.co/RYpSn3G/C79-C88-A8-2083-406-C-A5-A4-8-D05-F8-DC3853.jpg
 Name: Whatsapp Revael
 Sileodepiction: https://github.com/s8xg/crack2n.github.io/raw/main/depictions/WhatsappRevael.json
