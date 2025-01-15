@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "minVersion": "0.4",
-    "headerImage": "https://raw.githubusercontent.com/negandev/Logo/main/header.png",
+    "headerImage": "https://raw.githubusercontent.com/s8xg/Logo/main/header.png",
     "tintColor":"#69CD8B",
     "tabs": [
         {
@@ -65,7 +65,7 @@ applications and store free for all 🦅",
                 {
                     "class": "DepictionTableTextView",
                     "title": "Author",
-                    "text": "STAR CRACK"
+                    "text": "StarCrack"
                 },
                 {
                     "class": "DepictionTableTextView",
