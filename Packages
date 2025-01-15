@@ -38,7 +38,7 @@ Sileodepiction: https://github.com/s8xg/starcrack.github.io/raw/main/depictions/
 
 Package: com.star.whatsapprevael
 Version: 10.23
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Negan-Dev
 Installed-Size: 4114
 Depends: mobilesubstrate (>= 0.9.5000)
