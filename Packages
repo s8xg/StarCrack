@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: Negan-Dev
 Installed-Size: 4114
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.star.whatsapprevael_10.23_iphoneos-arm.deb
+Filename: debs/com.starcrack.whatsapprevael_10.23_iphoneos-arm.deb
 Size: 772618
 MD5sum: 8f507c56fc67158dc79162ba09726357
 SHA1: 2b064001dbfc849630eb09f549f26c7c5a7daf29
