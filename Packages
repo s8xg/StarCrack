@@ -1,56 +1,18 @@
-Package: com.star.whatsapprevael
+Package: com.starcrack.whatsapprevael
 Version: 10.23
 Architecture: iphoneos-arm64
 Maintainer: Negan-Dev
 Installed-Size: 4114
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.star.whatsapprevael_10.23_iphoneos-arm64.deb
-Size: 772618
-MD5sum: 53504f9f659dcc196b3a871e3069a8ae
-SHA1: c85f069a92aed3564e26a12f453e588576872480
-SHA256: 69a8727cb67fa1611a7935aa9db451792eb0c716d63601b33038f9bbf6149c6f
-Section: Tweaks
-Description: Cracked By StarCrack
-Author: Negan-Dev
-Depiction: https://raw.githubusercontent.com/s8xg/Logo/main/MadeByS.PNG
-Icon: https://i.ibb.co/RYpSn3G/C79-C88-A8-2083-406-C-A5-A4-8-D05-F8-DC3853.jpg
-Name: WhatsappRevael
-Sileodepiction: https://github.com/s8xg/starcrack.github.io/raw/main/depictions/WhatsappRevael.json
-
-Package: com.star.whatsapprevael
-Version: 10.23
-Architecture: iphoneos-arm64e
-Maintainer: Negan-Dev
-Installed-Size: 4114
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.star.whatsapprevael_10.23_iphoneos-arm64e.deb
-Size: 772618
-MD5sum: 53504f9f659dcc196b3a871e3069a8ae
-SHA1: c85f069a92aed3564e26a12f453e588576872480
-SHA256: 69a8727cb67fa1611a7935aa9db451792eb0c716d63601b33038f9bbf6149c6f
-Section: Tweaks
-Description: Cracked By StarCrack
-Author: Negan-Dev
-Depiction: https://raw.githubusercontent.com/s8xg/Logo/main/MadeByS.PNG
-Icon: https://i.ibb.co/RYpSn3G/C79-C88-A8-2083-406-C-A5-A4-8-D05-F8-DC3853.jpg
-Name: WhatsappRevael
-Sileodepiction: https://github.com/s8xg/starcrack.github.io/raw/main/depictions/WhatsappRevael.json
-
-Package: com.star.whatsapprevael
-Version: 10.23
-Architecture: iphoneos-arm
-Maintainer: Negan-Dev
-Installed-Size: 4114
-Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.star.whatsapprevael_10.23_iphoneos-arm.deb
 Size: 772618
-MD5sum: 53504f9f659dcc196b3a871e3069a8ae
-SHA1: c85f069a92aed3564e26a12f453e588576872480
-SHA256: 69a8727cb67fa1611a7935aa9db451792eb0c716d63601b33038f9bbf6149c6f
+MD5sum: 8f507c56fc67158dc79162ba09726357
+SHA1: 2b064001dbfc849630eb09f549f26c7c5a7daf29
+SHA256: e082e246996717fbfab5980d27d1e7f671aa2ccfe9a1fa953defbb00c23daf0c
 Section: Tweaks
 Description: Cracked By StarCrack
 Author: Negan-Dev
 Depiction: https://raw.githubusercontent.com/s8xg/Logo/main/MadeByS.PNG
 Icon: https://i.ibb.co/RYpSn3G/C79-C88-A8-2083-406-C-A5-A4-8-D05-F8-DC3853.jpg
-Name: WhatsappRevael
+Name: Whatsapp Revael
 Sileodepiction: https://github.com/s8xg/starcrack.github.io/raw/main/depictions/WhatsappRevael.json
